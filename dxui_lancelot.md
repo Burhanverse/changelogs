@@ -5,6 +5,12 @@
 • Stable release build.<br>
 • Lancelot and Shiva.<br><br>
 
+### V1.5.3 | LimeDust
+
+**_Changelogs :_**<br>
+• Merged September Security Patch. <br>
+• Minor bug fixes that caused laggs jitters in the previous build.<br><br>
+
 ### V1.5.2 | LimeDust
 
 **_Changelogs :_**<br>
